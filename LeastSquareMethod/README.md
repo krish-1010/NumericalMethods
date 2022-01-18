@@ -5,6 +5,11 @@ Also the equation for that straight line is shown in terminal output. <br>
 
 # Installing the required libraries:
 
-open your cmd and paste this command, this will install the required libraries:
+open your cmd and paste this command, this will install the required libraries: <br>
 
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
+
+or <br>
+
+pip install matplotlib <br>
+pip install PyQt5
